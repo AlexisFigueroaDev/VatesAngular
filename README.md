@@ -54,11 +54,11 @@ _Ejemplo_
 
 		v.map(x => x*x) por cada x que tenga el parametro en el vector v multiplicame el parametro por dos
 		
-		v.map(x => x*x).filter(x => x > 100);
-		
-		
-		
+		v.map(x => x*x).filter(x => x > 100);		
 	
-	`
+	``
+	
+
+* Resumen de clase
 
 	
