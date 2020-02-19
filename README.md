@@ -56,7 +56,23 @@ _Ejemplo_
 		
 		v.map(x => x*x).filter(x => x > 100);		
 	
-	``
+	promesas; promise son objetos, se los crea con new, el constructor recibe una funcion callback, esta funcion a su vez que puede ser con un lambda, recibe dos parametros, (resolve, reject) que son dos funciones, 
+	entonces promise ejecuta la tarea larga, si sale todo bien ejecutar resolve si algo sale mal ejecutar reject, tamto estos dos parametros reciben informacion 
+	
+	ejecuta resolve(1000)
+	
+	
+	
+	async funtion iniciar(){
+		 resultado = await setTimeOut 
+	}
+	
+	
+	para hacer en js orientado a objetos creamos clases class
+	
+	
+	json  : javaScript object notation
+	`
 	
 
 * Resumen de clase
