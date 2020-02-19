@@ -8,7 +8,8 @@
 * unshift -> agrega un primer elemento en el arreglo 
 
 _Ejemplo_
-	~~~
+	
+	< 
 	var x = [];
 	
 	x = [1,2,3,4];
@@ -24,5 +25,5 @@ _Ejemplo_
 	for(var i = 0; i < 10; i++) {
 		var suma += v[i];
 	}
-	~~~
+>
 	
